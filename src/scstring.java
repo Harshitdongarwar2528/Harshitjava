@@ -1,5 +1,4 @@
-public class scstring {
-    public static void main(String[] args) {
+public class scstring { public static void main(String[] args) {
         String str = "programmer@gmail.com";
         int i = str.indexOf("@");
         System.out.println(str);
