@@ -6,7 +6,6 @@ public class displaynumberinwords {
         System.out.println("enter a number of your choice ");
         int n=sc.nextInt();
         int r ;
-
         String str= "";
 
         while (n>0)
