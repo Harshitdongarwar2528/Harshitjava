@@ -20,7 +20,7 @@ public class deletinganarray
 
          for (int i=index;i<n-1;i++)
              A[i]=A[i+1];
-           
+
 
         for (int i=0;i<n;i++)
             System.out.print(A[i]+",");
